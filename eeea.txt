@@ -6,3 +6,5 @@ git checkout
 seguimos sobre una rama nueva como
 como es
 supongo que mi rama se llama practica ahre 
+otra mas 
+git merge para fusionar ramas 
