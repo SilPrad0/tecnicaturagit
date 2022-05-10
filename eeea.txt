@@ -1,1 +1,4 @@
 algo para git no se 
+holaaa
+git switch 
+git checkout
