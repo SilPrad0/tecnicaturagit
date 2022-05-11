@@ -4,3 +4,5 @@ git switch
 git checkout 
 averve
 r que paso aqui que no me aparece lo ultimo
+agrego lineas pero esta vez estamos trabajando en la otra ramaa 
+ahrelargo
