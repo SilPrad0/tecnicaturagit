@@ -1,4 +1,6 @@
 algo para git no se 
 holaaa
 git switch 
-git checkout
+git checkout 
+averve
+r que paso aqui que no me aparece lo ultimo
