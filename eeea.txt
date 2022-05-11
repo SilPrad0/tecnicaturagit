@@ -1,8 +1,20 @@
 algo para git no se 
 holaaa
 git switch 
+<<<<<<< HEAD
+git checkout
+----
+seguimos sobre una rama nueva como
+como es
+supongo que mi rama se llama practica ahre 
+otra mas 
+git merge para fusionar ramas 
+=======
 git checkout 
 averve
 r que paso aqui que no me aparece lo ultimo
 agrego lineas pero esta vez estamos trabajando en la otra ramaa 
 ahrelargo
+OHHHHH miravos tengo dos cosos 
+eeeeeeeeeee agrego un archivo
+>>>>>>> nuevarama
