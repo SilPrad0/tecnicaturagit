@@ -1,0 +1,2 @@
+#4: sumar numeros pares dentro de un rango
+a = int(input("digite de donde va a comenzar la suma

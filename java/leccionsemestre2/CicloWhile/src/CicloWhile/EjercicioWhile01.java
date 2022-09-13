@@ -1,7 +1,7 @@
 package CicloWhile;
 
 public class EjercicioWhile01 {
-
+/*
     public static void main(String[] args) {
         var conteo = 0; //inferencia de tipos
         while (conteo < 3) {
@@ -19,4 +19,6 @@ public class EjercicioWhile01 {
             System.out.println("contando = " + contando);
         }
         }
+*/
+    
     }

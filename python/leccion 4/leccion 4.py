@@ -218,4 +218,42 @@ cola.append("otromas")
 print(cola)
 seRetira = cola.pop()
 print(f"atendido el cliente: {seRetira}")
+
+#EJERCICIO 1 clase 4
+lista = [1, 2, 3, 4, "sil", 7, 7, 3, "sil", 5, "e"]
+# conjunto = set(lista) #convertimos lista a set
+# lista = list(conjunto) #convertimos set a lista
+lista = list(set(lista)) #una sola linea (eficiente)
+print(lista)
+
+# ejercicio 2 / a mi maneeeeeraaa
+lista1 = ["inglés", "alemán", "italiano", "francés", "español", "chino"]
+lista2 = ["chino", "portugues", "letón", "japonés", "francés"]
+conjunto1 = set(lista1)
+conj2 = set(lista2)
+conj3 = conjunto1 | conj2
+print(list(conj3)) #lista de palabras en la q aparecen las dos listas unidas
+print(list(conjunto1 - conj2)) #que aparecen en la primera pero no en la segunda
+print(list(conj2 - conjunto1)) #aparecen en la segunda y no en la primera
+conj4 = conjunto1 & conj2
+print(list(conj4)) #que aparecen en ambas listas
+
+#ejercicio 3
+personajes = []
+p = {"Nombre": "Aragorn", "Clase": "Guerrero", "Raza": "Dinadan del norte"}
+personajes.append(p)
+p = {"nombre": "Gandalf","clase": "mago", "raza": "istar"}
+personajes.append(p)
+p =  {"nombre": "legolas", "clase": "arquero", "raza": "elfo sindar"}
+personajes.append(p)
+print(personajes) ///sumar mas personajes
+
+#raiz cuadrada
+import math
+
+numero = int(input("Digite un numero positivo:"))
+while numero < 0:
+    print("error, debe ser un numero positivo")
+    numero
+print(f'\nsu raiz cuadrada es: {math.sqrt(numero):.2f}')
 """
