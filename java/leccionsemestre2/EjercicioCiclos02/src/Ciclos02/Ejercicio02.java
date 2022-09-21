@@ -1,13 +1,11 @@
-/*leer un nro e indicar si es + o -, el proceso se repetirá hasta qye se introduzca un cero */
+/*leer un nro e indicar si es + o -, el proceso se repetirá hasta que se introduzca un cero con JopPane*/
 package Ciclos02;
 
-import java.util.Scanner;
+import javax.swing.JOptionPane;
 
 public class Ejercicio02 {
     public static void main(String[] args) {
-        Scanner entrada = new Scanner(System.in);
-        System.out.println("digite un numero: ");
-        var numero = Integer.parseInt(entrada.nextLine());
+        var numero = Integer.parseInt(JOptionPane.showInputDialog("digite un numero: "));
         while(numero != 0) {
             if(numero > 0){
                 System.out.println("El numero "+numero+" es positivo");
@@ -15,8 +13,7 @@ public class Ejercicio02 {
             else{
             System.out.println("el numero "+numero+" es negativo");
         }
-            System.out.println("digite otro numero: ");
-            numero = Integer.parseInt(entrada.nextLine());
+            numero = Integer.parseInt(JOptionPane.showInputDialog("digite otro numero: "));
         }
         System.out.println("El numero "+numero+" finaliza el programa");
     }
