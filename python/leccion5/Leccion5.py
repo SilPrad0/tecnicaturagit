@@ -34,7 +34,10 @@ print(Arg)
 print(bottleC)
 
 # Paso de argumentos (funciones
-
+def mi_funcion2(name, lastName):
+    print("saludos")
+    print(f'Nombre: {name}, Apellido: {lastName}')
+mi_funcion2('Silvina', 'Prado')
 
 
 
