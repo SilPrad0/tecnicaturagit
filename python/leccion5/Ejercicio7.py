@@ -12,4 +12,4 @@ while True:
     elif numero < aleatorio:
         print('\tNo es el numero, digite un numero mayor')
     else:
-        print(f'Felicidades, acertaste el nmero {aleatorio}')
+        print(f'Felicidades, acertaste el numero {aleatorio}')

@@ -1,6 +1,6 @@
 # menu interactivo
-saldo = 1000
-while True
+saldo = 0
+while True:
     print("\t.:Menu:.")
     print("1.Ingresar dinero en la cuenta")
     print("2.Retirar dinero de la cuenta")
@@ -18,5 +18,12 @@ while True
             print("no tiene dinero para retirar")
         else:
             saldo -= retirar
-            print(f'Dinero disponible: {saldo}')
+            print(f'Dinero disponible: ${saldo}')
     elif opcion == 3:
+        print(f'Dinero en la cuenta: ${saldo}')
+    elif opcion == 4:
+        print("Gracias por utilizar su cajero automatico, vuelva prontos")
+        break
+    else:
+        print("opcion incorrecta, digite nuevamente")
+        print()
