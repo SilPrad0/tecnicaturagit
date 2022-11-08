@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../leccion1"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

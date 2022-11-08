@@ -1,4 +1,3 @@
-
-var nombre = "silv";
-nombre = "hola munod desde js";
+var nombre = "Silvina";
+nombre = "hola mundo desde java";
 console.log(nombre);
