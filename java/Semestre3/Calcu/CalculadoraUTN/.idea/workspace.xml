@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b5dd125-7cf7-47c2-b977-fca949b9bf5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/S3Leccion1/0103-ciclos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Leccion13/.idea/Leccion13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Django/.idea/Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Django/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Django/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Django/djangoetc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Excepciones/Leccion1/.idea/Leccion1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Excepciones/Leccion1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Excepciones/Leccion1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Excepciones/Leccion1/NumerosIgualesExc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Excepciones/Leccion1/manejo_excepciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion2/.idea/Leccion2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion2/catalogo_peliculas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion2/catalogo_peliculas/dominio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion2/catalogo_peliculas/dominio/peliculas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion2/catalogo_peliculas/servicio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion2/catalogo_peliculas/servicio/catalogos_peliculas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion2/catalogo_peliculas/test_catalogo_pelis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/.idea/base de datos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/act_varios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/actualizar_reg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/delete_reg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/ins_registros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/prueba_bd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/transacciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/transacciones_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/transacciones_tres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/v_ins_regist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion4/base de datos/v_registros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/.idea/Leccion7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/base_datos.uxf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/capa_datos_persona/Persona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/capa_datos_persona/capa_datos.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/capa_datos_persona/conexion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/capa_datos_persona/logger_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/Tercer semestre/Leccion7/capa_datos_persona/persona_dao.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
+  <component name="ProjectId" id="2U8JzVf0eKvQOcODHEre6SuobsK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "practica",
+    "onboarding.tips.debug.path": "C:/Users/Silvina/tecnicaturagit/java/Semestre3/Calcu/CalculadoraUTN/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CalculadoraUTN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculadoraUTN" />
+      <module name="CalculadoraUTN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CalculadoraUTN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CalculadoraUTN" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculadoraUTN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b5dd125-7cf7-47c2-b977-fca949b9bf5b" name="Changes" comment="" />
+      <created>1692315578001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692315578001</updated>
+    </task>
+    <servers />
+  </component>
+</project>
