@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91956cfc-13b2-4794-9be3-4cda37f5d81a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Javascript/leccion1/holamundo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Javascript/leccion1/holamundo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Javascript/leccion1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Javascript/leccion1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion4/Aritmetica/src/Operacioens/Aritmetica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/leccion4/Aritmetica/src/Operacioens/Aritmetica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion4/Aritmetica/src/Operacioens/PruebaAritmetica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/leccion4/Aritmetica/src/Operacioens/PruebaAritmetica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccionsemestre2/LeccionClasesobjetos/src/Clases/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/leccionsemestre2/LeccionClasesobjetos/src/Clases/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leccion 4/Ej8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../leccion 4/Ej8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leccion 4/Ejercicio7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../leccion 4/Ejercicio7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leccion5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion5.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GHby5ykA5pFnUDTzvZkaRjYqSq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91956cfc-13b2-4794-9be3-4cda37f5d81a" name="Changes" comment="" />
+      <created>1666048708935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666048708935</updated>
+    </task>
+    <servers />
+  </component>
+</project>
