@@ -1,0 +1,10 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>40</x><y>10</y><w>120</w><h>80</h></coordinates><panel_attributes>&lt;&lt;FiguraGeometrica&gt;&gt;
+--
++alto
++ancho</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>170</x><y>240</y><w>130</w><h>80</h></coordinates><panel_attributes>&lt;&lt;cuadrado&gt;&gt;
+--
++area()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>310</x><y>10</y><w>80</w><h>80</h></coordinates><panel_attributes>&lt;&lt;Color&gt;&gt;
+--
++color</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>80</x><y>80</y><w>160</w><h>180</h></coordinates><panel_attributes>lt=&lt;.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;10;140;160</additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>80</y><w>160</w><h>180</h></coordinates><panel_attributes>lt=&lt;.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;160;140;10</additional_attributes></element></diagram>

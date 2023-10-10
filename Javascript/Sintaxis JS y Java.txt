@@ -1,0 +1,3 @@
+Sintaxis similares entre JS y Java
+Operadores simplificados, aritmeticos, asignacion, comparacion,
+comentarios. Secuencias de escape. Operador de aumento
